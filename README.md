@@ -1,5 +1,5 @@
 # polysemy
-This repository contains the data and code for Li (2024). Part of the analyses used data in Berdicevskis (2020) which can be found here (https://github.com/AleksandrsBerdicevskis/polysemy)<br /> 
+This repository contains the data and code for Li (2024). Part of the analyses used data in Berdicevskis (2020) (adjectives.csv, nouns.csv, verbs.csv) which can be found here (https://github.com/AleksandrsBerdicevskis/polysemy)<br /> 
 
 
 
